@@ -1,2 +1,2 @@
-# gquery
+# GQuery
 A ripoff of JQuery
